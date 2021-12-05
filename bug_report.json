@@ -1,3 +1,8 @@
 {
-  
+  "id":"1",
+  "titel":"Application crashes upon clicking the SAVE button while creating a new user",
+  "severity":"high",
+  "priority":"high",
+  "steps to reproduce":"1)Login into the Application",
+  "expected result":"On clicking the SAVE button, you should be prompted to a successful message"
 }
